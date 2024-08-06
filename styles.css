@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#imageContainer {
+    min-height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+#placeholderText {
+    color: #6c757d;
+}
